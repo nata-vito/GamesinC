@@ -1,4 +1,5 @@
 # AGAINST COVID-19
+Game developed in partnership with Vitor Lima and Rafael Azzolini. Due to the worldwide situation of the new Coronavirus pandemic, this game was developed in order to raise awareness among users.
 
 ## What is the project?
 It is a game with menu, settings options and player name personalization, bbased on choices, where each one takes different paths,
