@@ -41,21 +41,21 @@ https://super.abril.com.br/mundo-estranho/qual-e-o-nivel-maximo-e-o-minimo-que-a
 
 ![Prototypes](https://github.com/natanael19vitorino/GamesinC/blob/master/AgainstCovid/img.PNG)
 
-### Wellcome Screen
+#### Wellcome Screen
 ![Wellcome Screen](https://github.com/natanael19vitorino/GamesinC/blob/master/AgainstCovid/wellcome.PNG)
 
-### Menu Screen
+#### Menu Screen
 ![Menu Screen](https://github.com/natanael19vitorino/GamesinC/blob/master/AgainstCovid/main.PNG)
 
-### Settings Screen
+#### Settings Screen
 ![Settings Screen](https://github.com/natanael19vitorino/GamesinC/blob/master/AgainstCovid/settings.PNG)
 
-### Instructions Screen
+#### Instructions Screen
 ![Instructions Screen](https://github.com/natanael19vitorino/GamesinC/blob/master/AgainstCovid/instructions.PNG)
 
-### Credits Screen
+#### Credits Screen
 ![Credits Screen](https://github.com/natanael19vitorino/GamesinC/blob/master/AgainstCovid/credits.PNG)
 
-### Game History Screen
+#### Game History Screen
 ![Game History Screen](https://github.com/natanael19vitorino/GamesinC/blob/master/AgainstCovid/instructions.PNG)
 ![Game History Screen](https://github.com/natanael19vitorino/GamesinC/blob/master/AgainstCovid/introdution2.PNG)
